@@ -30,56 +30,34 @@ Create an account or use this test account to explore the demo:
 
 ## Project Features
 
-### User Authentication & Profile Setup
+**User Authentication & Profile Setup**
+- Signup/Login page with built-in Bubble authentication
+- Redirects new users to profile creation page after signup
+- Test users land on pre-filled profile page (can still edit details)
+- Editable fields: Profile picture, name, email address and bio
+<br>
 
-1. **Signup/Login Page:** User signs up with name, email, and password.
-2. **Profile Setup:** Redirected to profile page to upload display picture, enter bio, and edit name/email.
-3. **Chat Interface:**
-   - No chats/groups yet.
-   - Can start conversations, create groups, and invite members.
-   - Can view/edit/delete their own chats and groups.
+**Conversation Functionality**
+- Users can start direct conversations with other registered users
+- Each conversation is private and only visible to the two participants
+- Chat includes messages, timestamp, and file attachments
+- Conversations auto-update via Bubble workflows
+<br>
 
-### 🔹 Test User
+**Group Chat Functionality**
+- Users can create custom groups and name them
+- Only the group creator can add/remove members from the Participants Tab or delete the group 
+- Group chat is accessible only to current participants
+- All participants can send messages and files within the group
+<br>
 
-1. **Login:** Logs in using test credentials.
-2. **Profile Page:** Profile is already populated (image, name, bio, email — all editable).
-3. **Chat Interface:**
-   - Preloaded conversations with other users.
-   - Part of one or more existing groups.
-   - Can view messages, access group participants, and attach files.
-
----
-
-## 💡 Core Features
-
-| Feature                     | Description |
-|-----------------------------|-------------|
-| 🧑‍💻 **User Profile Setup**   | Upload photo, set bio, edit name/email |
-| 🔐 **Secure Login**         | Bubble’s built-in user authentication |
-| 💬 **1-on-1 Messaging**     | Start private chats with other users |
-| 👥 **Group Chats**          | Create/edit groups, view participants |
-| 📎 **File Sharing**         | Attach and send files in any conversation |
-| 🛡️ **Privacy Rules**        | Full access control on data visibility and actions |
+**Privacy & Access Rules**
+- Users can only view conversations or groups that they are a part of
+- Participants of groups other than group creator can only view other participants but cannot add/delete them
 
 ---
 
-## 🔐 Privacy & Access Control
-
-- **1-on-1 Conversations:**  
-  Only visible and accessible to the two members involved.
-
-- **Group Chats:**  
-  Only members added to the group can view messages or participants.
-
-- **Group Ownership:**  
-  Only the group creator can delete the group or add/remove members.
-
-- **File Attachments:**  
-  Shared securely within conversations and accessible only to participants.
-
----
-
-## 📸 Screenshots (inside `/assets/`)
+## 📸 Screenshots 
 
 - `login-page.png` – Login interface  
 - `profile-page.png` – Profile setup/edit page  
