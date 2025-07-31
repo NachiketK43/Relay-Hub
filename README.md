@@ -86,22 +86,17 @@ Create an account or use this test account to explore the demo:
 ### Workflow – Create New Group
 ![Workflow – Create New Group](screenshots/Workflow%20to%20create%20new%20group.png)
 
-### Listing Page
-![Listing Page](screenshots/Create%20Listing%20Page.png)
-
 ---
 
 ## 📌 Notes
-
-- This project is part of a curated **Bubble Developer Portfolio** built for showcasing real-world product features with clean UI, workflow management, and scalable logic.
-- Designed to help recruiters and clients quickly assess app-building and access-control skills in the no-code environment.
+- This project is part of a curated **Bubble Developer Portfolio** built for learning purposes.
 
 ---
 
 ## 🧠 Creator
 
 **Nachiket Karhade**  
-No-Code Developer | Bubble Expert | Automation Specialist  
+No-Code Builder| Bubble Developer
 🔗 [GitHub](https://github.com/NachiketK43) · 💼 [LinkedIn](https://linkedin.com/in/nachiket-karhade) · 📬 [Contact](mailto:your-email@example.com)
 
 ---
