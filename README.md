@@ -2,9 +2,19 @@
 A real-time messaging application built on Bubble.io with 1-on-1 conversations, group chats, file attachments, and user-level privacy controls
 
 ---
-/screenshots
 
-## 🚀 Live Demo
+## Core Features
+
+| Feature                     | Description |
+|-----------------------------|-------------|
+| 🧑‍💻 **User Profile Setup**   | Upload photo, set bio, edit name and email |
+| 🔐 **Secure Login**         | Bubble’s built-in user authentication |
+| 💬 **1-on-1 Messaging**     | Start private conversations with other users |
+| 👥 **Group Chats**          | Create groups, send messages, view participants, remove participants, delete groups |
+| 📎 **File Sharing**         | Attach and send files in any conversation or group |
+
+
+## Demo App Link
 
 🔗 [Try the Demo](https://test-app-link.bubbleapps.io)
 
