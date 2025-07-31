@@ -13,16 +13,6 @@ A real-time messaging application built on Bubble.io with 1-on-1 conversations, 
 
 ---
 
-## Feature List
-
-**User Profile Setup**  
-**Secure Login**
-**1-on-1 Messaging**
-**Group Chats**
-**File Sharing**
-
----
-
 ## Product Link
 
 🔗 [Click to view demo app](https://relayhub.bubbleapps.io/version-test/signup_login?debug_mode=true&View=Signup)
