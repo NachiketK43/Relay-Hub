@@ -14,9 +14,9 @@ A real-time messaging application built on Bubble.io with 1-on-1 conversations, 
 | 📎 **File Sharing**         | Attach and send files in any conversation or group |
 
 
-## Demo App Link
+## Product Link
 
-🔗 [Try the Demo](https://test-app-link.bubbleapps.io)
+🔗 [Click to view demo app](https://relayhub.bubbleapps.io/version-test/signup_login?debug_mode=true&View=Signup)
 
 > Use one of the preloaded test accounts to explore the chat features and user experience.
 
