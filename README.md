@@ -59,42 +59,6 @@ Create an account or use this test account to explore the demo:
 
 ## 📸 Screenshots 
 
-- `login-page.png` – Login interface  
-- `profile-page.png` – Profile setup/edit page  
-- `chat-section.png` – 1-on-1 and group chat interface  
-- `participants-tab.png` – Group participants view  
-
----
-
-## 🧰 Tech Stack
-
-- **Frontend/Backend:** [Bubble.io](https://bubble.io)
-- **Database:** Bubble built-in relational data model
-- **File Uploads:** Bubble FileUploader
-- **Privacy Controls:** Bubble’s privacy rule engine with condition-based access
-
----
-
-## 📂 Repository Structure
-
-bubble-chat-app-user-journey-access-control/
-│
-├── README.md
-├── assets/
-│ ├── login-page.png
-│ ├── profile-page.png
-│ ├── chat-section.png
-│ └── participants-tab.png
-├── workflows/
-│ ├── new-user-journey.md
-│ ├── test-user-journey.md
-│ ├── group-management-flow.md
-│ └── privacy-rules-breakdown.md
-└── LICENSE (optional)
-
-yaml
-Copy
-Edit
 
 ---
 
