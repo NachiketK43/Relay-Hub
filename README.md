@@ -13,21 +13,18 @@ A real-time messaging application built on Bubble.io with 1-on-1 conversations, 
 | 👥 **Group Chats**          | Create groups, send messages, view participants, remove participants, delete groups |
 | 📎 **File Sharing**         | Attach and send files in any conversation or group |
 
+---
 
 ## Product Link
 
 🔗 [Click to view demo app](https://relayhub.bubbleapps.io/version-test/signup_login?debug_mode=true&View=Signup)
 
-> Use one of the preloaded test accounts to explore the chat features and user experience.
+Create an account or use this test account to explore the demo:
 
-📧 Email: olivia.hart@skyline.net
-🔐 Password: G7r!Kzq2L#t5
+- Email: olivia.hart@skyline.net
+- Password: G7r!Kzq2L#t5
 
-pgsql
-Copy
-Edit
-
-⚠️ *Demo data may reset periodically.*
+⚠️ *Data may reset periodically.*
 
 ---
 
