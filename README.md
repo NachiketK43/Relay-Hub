@@ -5,13 +5,21 @@ A real-time messaging application built on Bubble.io with 1-on-1 conversations, 
 
 ## Feature List
 
-| Feature                  | 
-|--------------------------|
-| **User Profile Setup**   | 
-| **Secure Login**         | 
-| **1-on-1 Messaging**     | 
-| **Group Chats**          | 
-| **File Sharing**         | 
+- User Profile Setup
+- Secure Login
+- 1-on-1 Messaging
+- Group Chats
+- File Sharing       
+
+---
+
+## Feature List
+
+**User Profile Setup**  
+**Secure Login**
+**1-on-1 Messaging**
+**Group Chats**
+**File Sharing**
 
 ---
 
