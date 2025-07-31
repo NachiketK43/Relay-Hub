@@ -28,9 +28,9 @@ Create an account or use this test account to explore the demo:
 
 ---
 
-## 🧭 User Journey
+## Project Features
 
-### 🔹 Newly Created User
+### User Authentication & Profile Setup
 
 1. **Signup/Login Page:** User signs up with name, email, and password.
 2. **Profile Setup:** Redirected to profile page to upload display picture, enter bio, and edit name/email.
