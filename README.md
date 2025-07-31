@@ -3,15 +3,15 @@ A real-time messaging application built on Bubble.io with 1-on-1 conversations, 
 
 ---
 
-## Core Features
+## Feature List
 
-| Feature                     | Description |
-|-----------------------------|-------------|
-| 🧑‍💻 **User Profile Setup**   | Upload photo, set bio, edit name and email |
-| 🔐 **Secure Login**         | Bubble’s built-in user authentication |
-| 💬 **1-on-1 Messaging**     | Start private conversations with other users |
-| 👥 **Group Chats**          | Create groups, send messages, view participants, remove participants, delete groups |
-| 📎 **File Sharing**         | Attach and send files in any conversation or group |
+| Feature                  | 
+|--------------------------|
+| **User Profile Setup**   | 
+| **Secure Login**         | 
+| **1-on-1 Messaging**     | 
+| **Group Chats**          | 
+| **File Sharing**         | 
 
 ---
 
@@ -88,15 +88,17 @@ Create an account or use this test account to explore the demo:
 
 ---
 
-## 📌 Notes
-- This project is part of a curated **Bubble Developer Portfolio** built for learning purposes.
+## Notes
+This project is part of a curated **Bubble Developer Portfolio** built for learning purposes.
 
 ---
 
-## 🧠 Creator
+## Creator
 
 **Nachiket Karhade**  
 No-Code Builder| Bubble Developer
-🔗 [GitHub](https://github.com/NachiketK43) · 💼 [LinkedIn](https://linkedin.com/in/nachiket-karhade) · 📬 [Contact](mailto:your-email@example.com)
+🔗 [GitHub](https://github.com/NachiketK43) 
+<br>
+
 
 ---
