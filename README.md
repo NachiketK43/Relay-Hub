@@ -15,7 +15,7 @@ A real-time messaging application built on Bubble.io with 1-on-1 conversations, 
 
 ## Product Link
 
-🔗 [Click to view demo app](https://relayhub.bubbleapps.io/version-test/signup_login?View=Signup)
+🔗 [Click to view demo app](https://relayhub.bubbleapps.io/version-test/signup_login)
 _(Right-click or Cmd/Ctrl+Click to open in a new tab)_
 
 Create an account or use this test account to explore the demo:
